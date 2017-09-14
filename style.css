@@ -11052,9 +11052,14 @@ input[type=checkbox]:not(:checked) + label.error { display: block !important; }
 
 .gmap img { max-width: none !important; }
 
+.gm-style {filter:brightness(95%) !important;}
+
+
+
 .gm-style .gm-style-iw h3 span {
 	font-size: inherit;
 	font-family: inherit;
+	filter:brightness(70%) !important;
 }
 
 #map-overlay {
